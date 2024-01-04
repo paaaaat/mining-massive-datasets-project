@@ -1,4 +1,4 @@
-# mining-massive-datasets-project
+# Mining Massive Datasets Project
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NSGgo9HIkUeZeBJlb72V2nITf8riyBmW?usp=sharing)
 
 Mining Massive Datasets course project.
